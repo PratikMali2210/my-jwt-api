@@ -1,0 +1,7 @@
+[functions]
+  directory = "functions"
+
+[[redirects]]
+  from = "/generate-jwt"
+  to = "/.netlify/functions/generate-jwt"
+  status = 200
